@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VRND-Course2/Scenes/UnlitApartmentScene.unity
+- path: Assets/GoogleVR/DemoScenes/testanh.unity
   isLoaded: 1
   isActive: 1
