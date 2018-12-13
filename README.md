@@ -30,5 +30,7 @@ Part 7: Capstone
 5. Project 2  
 
 ## Learning Resources  
-I've used mostly MOOCs to update my skills.  You can view the full list [here](/VR-Learning-Resources.md)
+I've used mostly MOOCs to update my skills.  I decided to start with getting a general foundation with VR by focusing on one game platform, the Unity3D.  Because I want to do more mobile VR, the community recommend Unity3D as suppose to Unreal Engine.  There are more online resources and projects on Unity.    
+
+You can view the full list and my review [here](/VR-Learning-Resources.md).
 
