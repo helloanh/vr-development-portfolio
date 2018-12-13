@@ -7,10 +7,7 @@ public class HeadRotation : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Input.gyro.enabled = true;
-
-		
 	}
-	
 	// Update is called once per frame
 	void Update () {
 		Quaternion att = Input.gyro.attitude; // get rotation from gyro
