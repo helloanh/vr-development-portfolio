@@ -29,5 +29,6 @@ Part 7: Capstone
 4. Project 1  
 5. Project 2  
 
-
+## Learning Resources  
+I've used mostly MOOCs to update my skills.  You can view the full list [here](/VR-Learning-Resources.md)
 
