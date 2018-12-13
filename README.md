@@ -9,7 +9,7 @@ Projects and Notes for Udacity VR Development courses
 ### Course 2: Scenes and Objects 
 [Lesson 3 - Materials](lesson3-materials.md)  
 [Lesson 4 - Animations](lesson4-animations.md)   
-[Lesson 5 - Cameras]    
+[Lesson 5 - Cameras](lesson5-cameras.md    
 [Lesson 6 - Lights]   
 ### Course 3: VR Software Development  
 (in progress)  
