@@ -1,5 +1,5 @@
 # Lecture Notes
-## Lesson 1. What is virtual reality?
+## Lesson 0. What is virtual reality?
 
 **Virtual reality** is the creation of a synthetic, believable virtual world that is made possible by hardware and software.  
 
