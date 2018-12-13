@@ -1,4 +1,4 @@
-#Lesson 2: Game Objects  
+# Lesson 2: Game Objects  
 
 In this lesson we learned…   
 
