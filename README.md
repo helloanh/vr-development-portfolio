@@ -12,7 +12,8 @@ Projects and Notes for Udacity VR Development courses
 [Lesson 5 - Cameras](lesson5-cameras.md)      
 [Lesson 6 - Lights]   
 ### Course 3: VR Software Development  
-(in progress)  
+[Lesson 2.2 Create Scripts](lesson2.2-create-scripts.md)
+[Lesson 2.3 Controlling Objects Using Code](lesson2.3-controling-obj-using-code.md)
 ## VR Mobile 360 Developer    
 Part 1: Welcome to Mobile 360 Developer  
 Part 2: VR Design  
